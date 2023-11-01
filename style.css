@@ -1,0 +1,41 @@
+body
+{
+font-family: 'Playpen Sans', cursive;
+background: #04faee;
+}
+
+.header_div
+{
+background:#fa04e5;
+color: blue;
+}
+
+.header_div p {
+font-family:'Playpen Sans', cursive;
+color: #e750ce;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button{
+font-family: 'Playpen Sans', cursive;
+margin-top: 30px;
+width:130px;
+font-weight: bolder;
+letter-spacing:3px;
+}
+
+.copy_right_footer {
+position: fixed;
+color: aquamarine;
+bottom:0;
+width:100%;
+font-size: 18px;
+background-color: aliceblue;
+line-height: 3;
+text-align: center;
+text-shadow:5px 5px 5px rgb(151,149,149);
+}
+
+
